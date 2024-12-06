@@ -42,8 +42,8 @@ The datasets came from a Berkeley Earth Surface Temperature Study. These dataset
   * Trend Over Time: Average temperatures have consistently increased over time, highlighting a clear warming trend.
   * Urban vs. Regional: Major cities exhibit higher average temperatures compared to states, emphasizing the urban heat island effect.
   * Key Historical Shifts: A significant rise in average temperatures for both major cities and states is observed around the 1800s, coinciding with key events like urbanization and the Industrial Revolution.
-  * Urbanization Impact: Clearing vegetation for housing and infrastructure increased the concentration of heat-absorbing materials like concrete and asphalt.
-  * Increased use of fossil fuels (e.g., coal-fired plants and machinery) released heat and pollutants, intensifying the warming trend.
+    * Urbanization Impact: Clearing vegetation for housing and infrastructure increased the concentration of heat-absorbing materials like concrete and asphalt.
+    * Increased use of fossil fuels (e.g., coal-fired plants and machinery) released heat and pollutants, intensifying the warming trend.
   * Gradual State Trends: While states show a more gradual temperature increase, the long-term trend aligns with global warming patterns.
 
 * Temperature Distribution Histogram:
